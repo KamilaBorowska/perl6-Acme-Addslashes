@@ -1,8 +1,6 @@
 use v6;
 use Test;
 
-BEGIN { unshift @*INC, './lib'; }
-
 plan 4;
 
 my $solidus = "\c[COMBINING LONG SOLIDUS OVERLAY]";
