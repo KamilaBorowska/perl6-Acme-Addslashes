@@ -1,5 +1,5 @@
 module Acme::Addslashes;
-my $soldius = "\c[COMBINING LONG SOLIDUS OVERLAY]";
-sub addslashes(Cool $string) is export {
-    $string.subst: / (.) /, -> $/ { $0 ~ $soldius }, :g;
+sub addslashes(Cool $string is copy) is export {
+    $string ~~ s:g/(.)/$0\c[COMBINING LONG SOLIDUS OVERLAY]/;
+    $string;
 }
