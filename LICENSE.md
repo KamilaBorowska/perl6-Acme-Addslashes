@@ -1,4 +1,4 @@
-Copyright (c) 2012-2013, Konrad Borowski
+Copyright (c) 2012-2013, Konrad Borowski  
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
