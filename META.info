@@ -3,5 +3,5 @@
     "version"     : "0.1.2",
     "description" : "PHP security. Now in Perl 6.",
     "depends"     : [],
-    "source-url"  : "https://github.com/GlitchMr/perl6-Acme-Addslashes.git"
+    "source-url"  : "https://github.com/xfix/perl6-Acme-Addslashes.git"
 }
