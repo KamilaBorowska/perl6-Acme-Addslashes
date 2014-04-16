@@ -13,7 +13,7 @@ my $totally_safe_string = addslashes($unsafe_string);
 # $totally_safe_string now contains:
 # R̸o̸b̸e̸r̸t̸'̸)̸;̸ ̸D̸R̸O̸P̸ ̸T̸A̸B̸L̸E̸ ̸S̸t̸u̸d̸e̸n̸t̸s̸;̸-̸-̸
 
-# If that's not enough slashes to be safe, I don't know what is
+# If that's not enough slashes to be safe, then I don't know what is
 ```
 
 # Functions
