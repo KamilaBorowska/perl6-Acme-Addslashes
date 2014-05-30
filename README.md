@@ -27,5 +27,5 @@ name it, this function can add a slash to it.
 # Author
 
 Original function was written by James Aitken <jaitken@cpan.org>, this
-port was done by GlitchMr <glitchmr@myopera.com>. Ok, it's not really a port
+port was done by Konrad Borowski <x.fix@o2.pl>. Ok, it's not really a port
 as logic wasn't copied. But you can call it a port if you want.
